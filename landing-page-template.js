@@ -1,21 +1,21 @@
 /* ================================================================================================
 
-    Peringatan !
+    ¡Advertencia!
 
 ===================================================================================================
 
-    Mengubah / Menghapus file javascript (js) ini dapat mengakibatkan :
+     Cambiar/eliminar este archivo javascript (js) puede resultar en:
 
-    1. Kerusakan / error pada template
-    2. Menghilangkan fungsi update / perbaikan otomatis pada template
-    3. Tidak akan mendapatkan support / bantuan dari kreator template
+     1. Daño/error
+     2. Se eliminará la función de actualización automática
+     3. No recibirás soporte/asistencia
 
-    Terima kasih sudah menggunakan karya saya. :)
+     Gracias.
 
-    Salam,
-    KangRian.NET
+     Saludos,
+     joel210986®
 
-    Terakhir Diperbarui : 24/08/2022 @ 12:00
+     Última actualización: 24/08/2022 a las 12:00
 
 ================================================================================================ */
 
